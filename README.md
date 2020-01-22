@@ -1,4 +1,5 @@
 # Agile
+- Project Management method, especially used in software development
 
 ## The Agile Manifesto and 4 Agile Values
 
